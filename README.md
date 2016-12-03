@@ -1,2 +1,2 @@
-# ezusb
-A very old, and not very complete USB flash cartridge writer for the Game Boy Advance - An attempt to port the driver and failing
+Some very old code which doesn't work, playing around with trying to get
+an ezusb based GBA flash linker to work in Linux. 
