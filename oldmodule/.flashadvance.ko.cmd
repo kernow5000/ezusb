@@ -1,0 +1,1 @@
+cmd_/home/kernow/dev/old/oldmodule/flashadvance.ko := ld -m elf_i386 -r -o /home/kernow/dev/old/oldmodule/flashadvance.ko /home/kernow/dev/old/oldmodule/flashadvance.o /home/kernow/dev/old/oldmodule/flashadvance.mod.o
